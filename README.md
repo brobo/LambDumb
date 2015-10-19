@@ -1,5 +1,5 @@
 # LambDumb
-Lambda calculus is stupid. We're hear to make it even stupider.
+Lambda calculus is stupid. We're here to make it even stupider.
 
 ## Compiling
 Install ghc and run
@@ -29,7 +29,7 @@ To execute a single expression, wrap the expression in parenthesis, like such:
 ````(id (T a b))````
 Any unbound variables are treated as literals.
 
-## Making Lambdum Less Dumb
+## Making Lambdumb Less Dumb
 If you want to make lambdumb a little less dumb, then sumbit a pull request. But I swear to everything Holy and True,
 it would be in the best interest of your helath, safety, and existance to use the imperative tense.
 
