@@ -30,8 +30,8 @@ To execute a single expression, wrap the expression in parenthesis, like such:
 Any unbound variables are treated as literals.
 
 ## Making Lambdumb Less Dumb
-If you want to make lambdumb a little less dumb, then sumbit a pull request. But I swear to everything Holy and True,
-it would be in the best interest of your helath, safety, and existance to use the imperative tense.
+If you want to make lambdumb a little less dumb, then submit a pull request. But I swear to everything Holy and True,
+it would be in the best interest of your health, safety, and existence to use the imperative tense.
 
 ## Bad Ideas
 I would not recommend running the following commands:
